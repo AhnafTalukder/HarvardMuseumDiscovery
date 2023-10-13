@@ -2,7 +2,7 @@
 
 Submitted by: **Ahnaf Talukder**
 
- **Inspire history is a tool that exposes users to the collection of artifacts (artowrk, sculptures, records, etc.) at the Harvard Museum in a random way.**
+ **Inspire history is a tool that exposes users to the collection of artifacts (artwork, sculptures, records, etc.) at the Harvard Museum in a random way.**
 
 Time spent: **10** hours spent in total
 
