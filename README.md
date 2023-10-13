@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 
 
-<img src='./walkthrough' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Licecap
 
